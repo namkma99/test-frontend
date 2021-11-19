@@ -1,0 +1,15 @@
+.container{
+    width: 85%;
+}
+.header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.header img {
+    width: 310px;
+    height: 122px;
+    padding: 20px 0 30px 0;
+    
+}

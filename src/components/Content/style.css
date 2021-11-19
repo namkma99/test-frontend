@@ -1,0 +1,17 @@
+.content {
+    padding: 0 130px;
+    overflow: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    flex: 1;
+}
+.flex-1{
+    flex: 1;
+}
+.contain-content{
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+    margin-left: 150px;
+}

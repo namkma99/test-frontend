@@ -1,0 +1,23 @@
+
+.banner {
+    background: rgba(239, 239, 239, 1);
+    padding: 38px 269px;
+}
+
+.banner .banner_title p{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 21.09px;
+}
+
+.banner .banner_content p{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    font-size: 16px;
+    line-height: 18.75px;
+    font-weight: 400;
+}

@@ -1,0 +1,20 @@
+.sidebar {
+    position: fixed;
+    left: 0;
+    width: 150px;
+    height: 100%;
+    background: rgba(25, 23, 24, 1);
+    margin: 0;
+    padding: 0;
+}
+.sidebar li {
+    list-style: none;
+    color: #ffffff;
+    height: 44px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-bottom: 1px solid rgba(92, 92, 92, 1);
+    cursor: pointer;
+    font-weight: 700;
+}

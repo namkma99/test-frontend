@@ -1,0 +1,29 @@
+.contain-box{
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-evenly;
+}
+.box{
+  width: 30%;
+}
+.box:last-child{
+  margin-right: -60px;
+}
+.box:first-child{
+  margin-left: -60px;
+}
+.last-box{
+  margin-right: 0;
+}
+.box_img{
+  float: left; 
+  width: 100px;
+  display: inline-block;
+  margin: 5px;
+}
+p {
+  text-align: justify;
+  font-size: 16px;
+}
